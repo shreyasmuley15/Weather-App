@@ -1,0 +1,15 @@
+A simple weather app using OpenWeatherMap API.
+
+## Features
+- Search city weather
+- Temperature, min/max
+- Dynamic UI (sun, rain, snow)
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Setup
+1. Add your API key in javascript.js
+2. Open index.html
